@@ -34,7 +34,7 @@ class Hw extends Component {
 | degree| number| 90| 箭头的张角, 角度制|
 | offsetDegree| number| 0| 箭头的方向，默认指向右边|
 | color| string| -| 箭头的颜色|
-| size| string|10px| ![简单箭头][1]|
+| size| string|10px| 箭头边长|
 
 
 
