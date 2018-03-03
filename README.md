@@ -29,21 +29,15 @@ class Hw extends Component {
 [online example](https://ykforerlang.github.io/rc-arrow/example/helloworld/index.html) 
 [示例代码](https://github.com/ykforerlang/rc-arrow/tree/master/example/helloworld)
 
+
+
 ## props
 | name | type | default | description|
-| ----|----|----|----|----|
+| :----: |:----:  |:----:     |:----:        |
 | degree| number| 90| 箭头的张角, 角度制|
 | offsetDegree| number| 0| 箭头的方向，默认指向右边|
 | color| string| -| 箭头的颜色|
 | size| string|10px| 箭头的边长|
-
-
-
-1  第一表头 | 第二表头
-2  ------------ | -------------
-3  第一单元格内容 | 第二单元格内容
-4  第一列内容 | 第二列内容
-
 
 
 
