@@ -58,7 +58,7 @@ class HelloWorld extends Component {
                 <div className="moreArrow">
                     {
                         degreeArray.map(deg => {
-                            const size = 200 / Math.cos(deg / 360 * Math.PI);
+                            const size = 150 / Math.cos(deg / 360 * Math.PI);
                             const colorPart = 240 - deg * 2
                             return (
                                 <Arrow

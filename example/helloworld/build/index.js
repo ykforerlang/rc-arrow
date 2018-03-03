@@ -1072,7 +1072,7 @@ var HelloWorld = function (_Component) {
                     'div',
                     { className: 'moreArrow' },
                     degreeArray.map(function (deg) {
-                        var size = 200 / Math.cos(deg / 360 * Math.PI);
+                        var size = 150 / Math.cos(deg / 360 * Math.PI);
                         var colorPart = 240 - deg * 2;
                         return _react2.default.createElement(_rcArrow2.default, {
                             degree: deg,
