@@ -3,7 +3,7 @@
 
 示例截图
 |简单箭头|模拟select |发散箭头 |
-| ----|----|----|
+| :----:|:----:|:----:|
 |![简单箭头][1]|![模拟select][2]|![发散箭头][3]|
 
 ## Install
@@ -33,7 +33,7 @@ class Hw extends Component {
 | degree| number| 90| 箭头的张角, 角度制|
 | offsetDegree| number| 0| 箭头的方向，默认指向右边|
 | color| string| -| 箭头的颜色|
-| size| string|10px| 箭头的边长|
+| size| string|10px| ![简单箭头][1]|
 
 
 
