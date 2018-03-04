@@ -46,4 +46,4 @@ class Hw extends Component {
 
   [1]: https://raw.githubusercontent.com/ykforerlang/rc-arrow/master/static/arrow1.png
   [2]: https://raw.githubusercontent.com/ykforerlang/rc-arrow/master/static/rc2.gif
-  [3]: https://raw.githubusercontent.com/ykforerlang/rc-arrow/master/static/rc4.png
+  [3]: https://raw.githubusercontent.com/ykforerlang/rc-arrow/master/static/rc5.png
