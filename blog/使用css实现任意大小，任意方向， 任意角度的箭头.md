@@ -20,8 +20,8 @@
 $$
  \left[
  \begin{matrix}
-   a & c & e \\\\
-   b & d & f \\\\
+   a & c & e \\
+   b & d & f \\
    0 & 0 & 1
   \end{matrix}
   \right]
