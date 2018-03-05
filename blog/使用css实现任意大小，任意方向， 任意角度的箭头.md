@@ -20,8 +20,8 @@
 $$
  \left[
  \begin{matrix}
-   a & c & e \\
-   b & d & f \\
+   a & c & e \\\\
+   b & d & f \\\\
    0 & 0 & 1
   \end{matrix}
   \right]
@@ -216,6 +216,6 @@ class Hw extends Component {
   [3]: https://raw.githubusercontent.com/ykforerlang/rc-arrow/master/static/rc2.gif
   [4]: https://raw.githubusercontent.com/ykforerlang/rc-arrow/master/static/rc5.png
  
-   [5]: https://raw.githubusercontent.com/ykforerlang/rc-arrow/master/static/xialaarrow.gif
+   [5]: https://raw.githubusercontent.com/ykforerlang/rc-arrow/master/static/xialaarrow.png
   [6]: https://raw.githubusercontent.com/ykforerlang/rc-arrow/master/static/rightarrow.png
   
