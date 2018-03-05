@@ -1,13 +1,11 @@
 ﻿# rc-arrow
-[中文文档](./README_Zh.md)
+任意大小，任意方向， 任意角度的箭头
 
-An arrow of arbitrary size, arbitrary direction, and arbitrary angle
+示例截图
 
-Example screenshot
-
-|simple|simulate select | 发散箭头 |
+|简单箭头|模拟select |发散箭头 |
 | :----:|:----:|:----:|
-|![simple][1]|![simulate select][2]|![发散箭头][3]|
+|![简单箭头][1]|![模拟select][2]|![发散箭头][3]|
 
 ## Install
 `npm install rc-arrow --save`
@@ -27,18 +25,17 @@ class Hw extends Component {
 ## Example
 [online example](https://ykforerlang.github.io/rc-arrow/example/helloworld/index.html) 
 
-[Example code](https://github.com/ykforerlang/rc-arrow/tree/master/example/helloworld)
+[示例代码](https://github.com/ykforerlang/rc-arrow/tree/master/example/helloworld)
 
 
 
 ## props
 | name | type | default | description|
 | :----: |:----:  |:----:     |:----:        |
-| degree| number| 90| the angle of the arrow |
-| offsetDegree| number| 0| the direction of the arrow， 
-The default direction is on the right |
-| color| string| -| the color of the arrow |
-| size| string|10px| the size of the arrow |
+| degree| number| 90| 箭头的张角, 角度制|
+| offsetDegree| number| 0| 箭头的方向，默认指向右边|
+| color| string| -| 箭头的颜色|
+| size| string|10px| 箭头边长|
 
 
 
